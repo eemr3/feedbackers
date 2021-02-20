@@ -1,8 +1,10 @@
 import axios from 'axios'
-import AuthService from './auth'
+
 import router from '../router'
-import UsersService from './users'
 import { setGlobalLoading } from '../store/global'
+import AuthService from './auth'
+import UsersService from './users'
+import FeedbacksService from './feedbacks'
 
 const API_ENVS = {
 	production: '',
@@ -48,4 +50,5 @@ httpClient.interceptors.response.use(
 export default {
 	auth: AuthService(httpClient),
 	users: UsersService(httpClient),
+	feedbacks: FeedbacksService(httpClient),
 }
