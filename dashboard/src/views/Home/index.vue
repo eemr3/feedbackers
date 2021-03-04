@@ -1,24 +1,20 @@
 <template>
-	<custon-header @create-account="handleAccountCreate" @login="handleLogin" />
+	<custom-header @create-account="handleAccountCreate" @login="handleLogin" />
 	<contact />
-	<footer class="flex justify-center py-10 bg-brand-gray">
-		<p class="font-medium text-center text-gray-700">feedbacker &copy;</p>
-	</footer>
+	<div class="flex justify-center py-10 bg-brand-gray">
+		<p class="font-medium text-center text-gray-800">feedbacker &copy;</p>
+	</div>
 </template>
 
 <script>
 	import { onMounted } from 'vue'
 	import { useRouter } from 'vue-router'
-
-	import CustonHeader from './CustonHeader'
+	import CustomHeader from './CustonHeader'
 	import Contact from './Contact'
 	import useModal from '../../hooks/useModal'
 
 	export default {
-		components: {
-			CustonHeader,
-			Contact,
-		},
+		components: { CustomHeader, Contact },
 		setup() {
 			const router = useRouter()
 			const modal = useModal()
