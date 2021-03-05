@@ -145,7 +145,7 @@
 					}
 
 					if (errors.status === 400) {
-						toast.error('Ocorreu na criação da caonta!')
+						toast.error('Ocorreu um erro na criação da caonta!')
 					}
 					state.isLoading = false
 				} catch (error) {
