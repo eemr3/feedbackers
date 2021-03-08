@@ -3,9 +3,9 @@ name: E2e testing
 on:
   workflow_dispatch:
   push:
-    branches: [ $default-branch ]
+    branches: [$default-branch]
   pull_request:
-    branches: [ $default-branch ]
+    branches: [$default-branch]
 
 jobs:
   cypress:
@@ -32,7 +32,7 @@ jobs:
 
       - name: Run tests
         uses: cypress-io/github-action@v2
-        with:	
+        with:
           working-directory: dashboard
           browser: chrome
           headless: true
