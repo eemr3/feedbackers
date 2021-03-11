@@ -10,7 +10,6 @@ function init(apiKey) {
 			`https://backend-treinamento-vue3-lr5vptz4b-eemr3.vercel.app/apikey/exists?apikey=${apiKey}`,
 			config
 		)
-
 		if (res.status === 200) {
 			const iframe = document.createElement('iframe')
 			iframe.src = WIDGET_URL
@@ -36,6 +35,8 @@ function init(apiKey) {
 			})
 			return
 		}
+
+		console.log(res)
 
 		console.log('* [feedbacker] was not loaded because apikey does not exists')
 	}
