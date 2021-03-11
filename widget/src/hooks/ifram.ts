@@ -29,7 +29,7 @@ export default function useIframeControl(): IframeControl {
 		window.parent.postMessage(
 			{
 				isWidget: true,
-				isOPen: true,
+				isOpen: true,
 			},
 			'*'
 		)
@@ -39,7 +39,7 @@ export default function useIframeControl(): IframeControl {
 		window.parent.postMessage(
 			{
 				isWidget: true,
-				isOPen: false,
+				isOpen: false,
 			},
 			'*'
 		)
