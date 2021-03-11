@@ -1,5 +1,5 @@
 function init(apiKey) {
-	async function handleLoadMidget() {
+	async function handleLoadWidget() {
 		const page = `${window.location.origin}${window.location.pathname}`
 		const fp = await window.FingerprintJS.load()
 		const fingerprint = await fp.get()
@@ -44,7 +44,7 @@ function init(apiKey) {
 	script.src =
 		'//cdn.jsdelivr.net/npm/@fingerprintjs/fingerprintjs@3/dist/fp.min.js'
 	script.async = 'async'
-	script.addEventListener('load', handleLoadMidget)
+	script.addEventListener('load', handleLoadWidget)
 
 	document.body.appendChild(script)
 }
