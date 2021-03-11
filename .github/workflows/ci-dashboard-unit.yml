@@ -1,4 +1,4 @@
-name: Unit testing
+name: Dashbord unit testing
 
 on:
   workflow_dispatch:
