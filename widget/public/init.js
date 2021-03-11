@@ -20,10 +20,11 @@ function init(apiKey) {
 			iframe.style.right = '0px'
 			iframe.style.overflow = 'hidden'
 			iframe.style.border = '0px'
-			iframe.style.zIndex = '9999'
+			iframe.style.zIndex = '99999'
 			document.body.appendChild(iframe)
+
 			window.addEventListener('message', (event) => {
-				if (event.data.isWidget) return
+				if (!event.data.isWidget) return
 
 				if (event.data.isOpen) {
 					iframe.width = '100%'
