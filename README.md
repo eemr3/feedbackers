@@ -1,7 +1,5 @@
 <h2 align="center">feedbackers</h2>
 
-___
-
 
 
 
@@ -16,12 +14,14 @@ ___
 
 ___
 
+
 ## Descrição:
 
 <p>Este projeto tem o objetivo de mostrar um painel com os feedbacks enviados pelo usuário através de um widget</p>
 <p>Este projeto foi criado durante o curso de vuejs 3 minitrado <a href="https://treinamento.vuejsbrasil.org/">treinamento de Vue.js 3</a></p>
 
 ___
+
 
 <h3 align="center">
   <a href="#factory-backend">Backend</a>&nbsp;|&nbsp;
