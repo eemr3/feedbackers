@@ -17,11 +17,11 @@
 ***
 
 <p align="center">
-  <a href="#factory">Backend</a>
-  <a href="#-dashboard">Dashboard</a>
-  <a href="#-widget">Widget</a>
-  <a href="#-tecnologias">Technologies</a>
-</p>
+  <a href="#factory">Backend</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#pencil">Dashboard</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#dashboard-bar_chart">Widget</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#widget-dart"></a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href=
 
 ***
 
@@ -36,7 +36,7 @@
 
 ***
 
-## 🏭 Backend: 
+## :factory: Backend: 
 A pasta do backend gerencia toda manipulação de requisições ao banco de dados e ao usuário criador, gera um novo token de acesso, lista de feedbacks.
 
 A estrutura do back-end está pronta.
@@ -60,7 +60,7 @@ Este backend roda na porta ```3000```
 
 ***
 
-## Dashboard: 
+## :pencil: Dashboard: 
 TA pasta do painel é responsável por gerenciar a parte visual do aplicativo, criando uma lista de feedbacks com um filtro personalizado para que o usuário possa interagir
 
 Antes de executar os comandos, instale em seu sistema o <a href="https://vuejs.org/"> ** vuejs ** </a>. Para executar o painel use os comandos abaixo:
