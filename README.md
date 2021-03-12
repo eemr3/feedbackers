@@ -154,4 +154,4 @@ ___
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
-<p align="center">Feito com ❤️ por [<strong>Emerson Moreira] :wave: (https://www.linkedin.com/in/emerson-moreira/)</p>
+<p align="center">Feito com ❤️ por [Emerson Moreira] :wave: (https://www.linkedin.com/in/emerson-moreira/)</p>
