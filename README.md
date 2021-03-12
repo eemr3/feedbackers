@@ -98,12 +98,45 @@ ___
 
 ## :back: Widget
 
+O widget de pasta é responsável por criar um iframe utilizando algumas informações para criar o widget corretamente na página do cliente. Este widget é usado para obter o feedback do usuário e enviar o feedback para o painel onde o proprietário da página pode acessar.
+
+Antes de executar os comandos, instale em seu sistema o <a href="https://vuejs.org/"> ** vuejs ** </a>. Para executar o widget use os comandos abaixo:
+
+**instale as dependências:**
+```sh
+$ npm i ou yarn
+```
+**executar aplicativo local ou desenvolvedor:**
+```sh
+$ npm run serve ou yarn serve
+```
+**execução de tests unit:**
+```sh
+$ npm run test:unit ou yarn test:unit
+```
+**execução de tests e2e:**
+```sh
+$ npm run test:e2e ou yarn test:e2e
+```
+
+Este widget é executado na porta ```8080```
+
+___
 
 
 ## :rocket: Tecnologias Utilizadas 
 
 O projeto foi desenvolvido utilizando as seguintes tecnologias
 
+- [Nodejs](https://nodejs.org/en/)
+- [Docker](https://www.docker.com/)
+- [Vuejs](https://vuejs.org/)
+- [jest](https://jestjs.io/)
+- [cypress](https://www.cypress.io/)
+- [tailwind](https://tailwindcss.com/)
+- [vue-test-utils](https://vue-test-utils.vuejs.org/)
+- 
+___
 
 ## :link: Como contribuir 
 
@@ -117,3 +150,5 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 ## Licença 
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
+<p align="center">Feito com ❤️ por <strong>Emerson Moreira :wave: (https://www.linkedin.com/in/emerson-moreira/)</p>
