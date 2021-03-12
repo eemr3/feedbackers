@@ -1,4 +1,4 @@
-<h2 align="center">feed</h2>
+<h2 align="center">feedbackers</h2>
 
 ___
 
@@ -6,6 +6,9 @@ ___
 
 
 <p align="center">
+    <img alt="Last commit" src="https://img.shields.io/github/last-commit/eemr3/feedbackers"/>
+  <img alt="Language top" src="https://img.shields.io/github/languages/top/eemr3/feedbackers"/>
+  <img alt="Repo size" src="https://img.shields.io/github/repo-size/eemr3/feedbackers"/>
   <a href="LICENSE">
     <img alt="License" src="https://img.shields.io/badge/license-MIT-%23F8952D">
   </a>
