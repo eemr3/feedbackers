@@ -1,7 +1,5 @@
 
-<p align="center">
-    <img alt="Janapc logo" src="./dashboard/src/assets/images/logo_white.png" width="200" />
-</p>
+# <h1 align="center">**fedbackers**</h1>
 
 <p align="center">
   <img alt="Last commit" src="https://img.shields.io/github/last-commit/eemr3/feedbackers"/>
@@ -19,7 +17,6 @@
 ***
 
 <p align="center">
-  
   <a href="#backend-gear">Backend</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#dashboard-bar_chart">Dashboard</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#widget-dart">Widget</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
