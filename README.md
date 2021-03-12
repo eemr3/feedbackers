@@ -17,9 +17,9 @@
 ***
 
 <p align="center">
-  <a href="#-backend">Backend</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-dashboard">Dashboard</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-widget">Widget</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-backend">Backend</a>
+  <a href="#-dashboard">Dashboard</a>
+  <a href="#-widget">Widget</a>
   <a href="#-tecnologias">Technologies</a>
 </p>
 
