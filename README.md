@@ -30,8 +30,14 @@ ___
 </h3>
 
 ___
+## Dashboard
 
 ![Feedbacker](https://user-images.githubusercontent.com/42968718/110360431-788f5b80-801d-11eb-9d1a-9c6470f0b18a.png)
+
+## Widget
+
+![widget_botao](https://user-images.githubusercontent.com/42968718/110979166-054e5800-8343-11eb-8d8f-618f7ecab67b.png)
+![widget_icones](https://user-images.githubusercontent.com/42968718/110979181-097a7580-8343-11eb-9cac-c5f5705dfe62.png)
 
 ## :factory: Backend
 
