@@ -24,7 +24,9 @@ ___
 
 ___
 
-<img src="https://raw.githubusercontent.com/eemr3/imagens/master/React-App%20(1).png" width="1200">
+**Dashboard**
+
+![Feedbacker](https://user-images.githubusercontent.com/42968718/110360431-788f5b80-801d-11eb-9d1a-9c6470f0b18a.png)
 
 ## :information_source: Sobre
 
