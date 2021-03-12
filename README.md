@@ -154,4 +154,4 @@ ___
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
-<p align="center">Feito com ❤️ por</p> [Get in touch!](https://www.linkedin.com/in/janaina-pedrina/)>
+[Get in touch!](https://www.linkedin.com/in/janaina-pedrina/)
