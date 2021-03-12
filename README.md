@@ -1,4 +1,4 @@
-<h2 align="center">fedbackers</h2>
+<h2 align="center">feed</h2>
 
 ___
 
@@ -6,9 +6,6 @@ ___
 
 
 <p align="center">
-   <img alt="Last commit" src="https://img.shields.io/github/last-commit/eemr3/feedbackers"/>
-  <img alt="Language top" src="https://img.shields.io/github/languages/top/eemr3/feedbackers"/>
-  <img alt="Repo size" src="https://img.shields.io/github/repo-size/eemr3/feedbackers"/>
   <a href="LICENSE">
     <img alt="License" src="https://img.shields.io/badge/license-MIT-%23F8952D">
   </a>
@@ -16,8 +13,16 @@ ___
 
 ___
 
+## Descrição:
+
+<p>Este projeto tem o objetivo de mostrar um painel com os feedbacks enviados pelo usuário através de um widget</p>
+<p>Este projeto foi criado durante o curso de vuejs 3 minitrado <a href="https://treinamento.vuejsbrasil.org/">treinamento de Vue.js 3</a></p>
+
+___
+
 <h3 align="center">
-  <a href="#information_source-sobre">Sobre</a>&nbsp;|&nbsp;
+  <a href="#factory">Backend</a>&nbsp;|&nbsp;
+  <a href="#interrobang-motivo">Motivo</a>&nbsp;|&nbsp;
   <a href="#seedling-requisitos-mínimos">Requisitos</a>&nbsp;|&nbsp;
   <a href="#rocket-tecnologias-utilizadas">Tecnologias</a>&nbsp;|&nbsp;
   <a href="#link-como-contribuir">Como Contribuir</a>&nbsp;|&nbsp;
@@ -26,14 +31,32 @@ ___
 
 ___
 
-**Dashboard**
-
 ![Feedbacker](https://user-images.githubusercontent.com/42968718/110360431-788f5b80-801d-11eb-9d1a-9c6470f0b18a.png)
 
-## :information_source: Sobre
+## :factory: Backend
 
-<p>Este projeto tem o objetivo de mostrar um painel com os feedbacks enviados pelo usuário através de um widget</p>
-<p>Este projeto foi criado durante o curso de vuejs 3 minitrado <a href="https://treinamento.vuejsbrasil.org/">treinamento de Vue.js 3</a></p>
+A pasta do backend gerencia toda manipulação de requisições ao banco de dados e ao usuário criador, gera um novo token de acesso, lista de feedbacks.
+
+A estrutura do back-end está pronta.
+
+Antes de executar os comandos, instale em seu sistema o <a href="https://www.docker.com/get-started"> ** Docker ** </a>. Para executar o backend use os comandos abaixo:
+
+**instale as dependências:**
+```sh
+$ npm i ou yarn
+```
+**construir o back-end em um container de docker:**
+```sh
+$ npm run build ou yarn build
+```
+**  execução do container criado:**
+```sh
+$ npm run container ou yarn container
+```
+
+Este backend roda na porta ```3000```
+
+___
 
 ## :interrobang: Motivo
 
