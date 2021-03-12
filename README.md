@@ -23,7 +23,7 @@ ___
 <h3 align="center">
   <a href="#factory-backend">Backend</a>&nbsp;|&nbsp;
   <a href="#pencil-dashboard">Dashboard</a>&nbsp;|&nbsp;
-  <a href="#sback-widget">Widget</a>&nbsp;|&nbsp;
+  <a href="#back-widget">Widget</a>&nbsp;|&nbsp;
   <a href="#rocket-tecnologias-utilizadas">Tecnologias</a>&nbsp;|&nbsp;
   <a href="#link-como-contribuir">Como Contribuir</a>&nbsp;|&nbsp;
   <a href="#licença">Licença</a>
