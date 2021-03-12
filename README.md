@@ -23,7 +23,7 @@ ___
 <h3 align="center">
   <a href="#factory-backend">Backend</a>&nbsp;|&nbsp;
   <a href="#pencil-dashboard">Dashboard</a>&nbsp;|&nbsp;
-  <a href="#seedling-requisitos-mínimos">Requisitos</a>&nbsp;|&nbsp;
+  <a href="#sback-widget">Widget</a>&nbsp;|&nbsp;
   <a href="#rocket-tecnologias-utilizadas">Tecnologias</a>&nbsp;|&nbsp;
   <a href="#link-como-contribuir">Como Contribuir</a>&nbsp;|&nbsp;
   <a href="#licença">Licença</a>
@@ -66,9 +66,37 @@ ___
 
 ## :pencil: Dashboard
 
+TA pasta do painel é responsável por gerenciar a parte visual do aplicativo, criando uma lista de feedbacks com um filtro personalizado para que o usuário possa interagir
+
+Antes de executar os comandos, instale em seu sistema o <a href="https://vuejs.org/"> ** vuejs ** </a>. Para executar o painel use os comandos abaixo:
+
+**instale as dependências:**
+```sh
+$ npm i ou yarn
+```
+**executar aplicativo local ou desenvolvedor:**
+```sh
+$ npm run serve ou yarn serve
+```
+**execução de tests unit:**
+```sh
+$ npm run test:unit ou yarn test:unit
+```
+**execução de tests e2e:**
+```sh
+$ npm run test:e2e or yarn test:e2e
+```
+**executar construção para produção:**
+```sh
+$ npm run build ou yarn build
+```
+
+Este Dashboard é executado na porta ```8080```
+
+___
 
 
-## :seedling: Requisitos Mínimos
+## :back: Widget
 
 
 
