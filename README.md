@@ -17,7 +17,7 @@
 ***
 
 <p align="center">
-  <a href="#backend-gear">Backend</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#back-end">Backend</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#dashboard-bar_chart">Dashboard</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#widget-dart">Widget</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#technologies-boom">Technologies</a>
@@ -36,7 +36,7 @@
 
 ***
 
-## :baclemd: Backend: 
+## Backend: 
 A pasta do backend gerencia toda manipulação de requisições ao banco de dados e ao usuário criador, gera um novo token de acesso, lista de feedbacks.
 
 A estrutura do back-end está pronta.
