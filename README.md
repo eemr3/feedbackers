@@ -7,11 +7,6 @@
   <img alt="Last commit" src="https://img.shields.io/github/last-commit/eemr3/feedbackers"/>
   <img alt="Language top" src="https://img.shields.io/github/languages/top/eemr3/feedbackers"/>
   <img alt="Repo size" src="https://img.shields.io/github/repo-size/eemr3/feedbackers"/>
-  <img alt="CI Dashboard e2e" src="https://github.com/eemr3/feedbackers/actions/workflows/ci-dashboard-e2e.yml/badge.svg"/>
-  <img alt="CI Dashboard Unit" src="https://github.com/eemr3/feedbackers/actions/workflows/ci-dashboard-unit.yml/badge.svg"/>
-  <img alt="CI Widget e2e" src="https://github.com/eemr3/feedbackers/actions/workflows/ci-widget-e2e.yml/badge.svg"/>
-  <img alt="CI Widget Unit" src="https://github.com/eemr3/feedbackers/actions/workflows/ci-widget-unit.yml/badge.svg"/>
-  <img alt="Netlify sStatus" src="https://api.netlify.com/api/v1/badges/151ad7c6-896c-4791-a297-4be5040c8ece/deploy-status"/>
 </p>
 
 ***
